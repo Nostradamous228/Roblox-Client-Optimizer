@@ -10,7 +10,7 @@
   "FIntEmotesAnimationsPerPlayerCacheSize": 16777216,
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
-  "DFIntTaskSchedulerTargetFps": 500,
+  "DFIntTaskSchedulerTargetFps": 2000000983,
   "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagDisableNewIGMinDUA": true,
